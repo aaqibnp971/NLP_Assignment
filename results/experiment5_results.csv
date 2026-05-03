@@ -1,0 +1,3 @@
+type,count,composite_auroc,best_metric
+contradictory,116,0.7841034482758621,kl_divergence
+unsupported,134,0.690179104477612,kl_divergence

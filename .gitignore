@@ -1,0 +1,6 @@
+new_env/
+nlp_env/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+data/ragtruth.csv

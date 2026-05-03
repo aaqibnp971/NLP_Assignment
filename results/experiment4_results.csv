@@ -1,0 +1,4 @@
+,ragtruth,halueval,drop
+Full composite,0.7243,0.9249,-0.2006
+Information Gain,0.3482,0.4908,-0.1426
+KL divergence,0.6974,0.906,-0.2086

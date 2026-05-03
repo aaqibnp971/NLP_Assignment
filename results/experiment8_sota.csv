@@ -1,0 +1,6 @@
+method,auroc
+Entropy Only,0.5338
+SelfCheckGPT,0.6805
+Our Composite,0.7243
+ReDeEP,0.82
+LUMINA,0.87
