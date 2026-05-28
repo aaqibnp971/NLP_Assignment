@@ -42,6 +42,4 @@ To run this project locally, it is recommended to use a virtual environment.
 ## ⚠️ Notes on Data
 Due to GitHub's 100MB file size limits, large datasets (such as `ragtruth.csv`) are not tracked in this repository. The `01_data_exploration.ipynb` notebook contains the code to pull and process the dataset directly from the Hugging Face Hub (`wandb/RAGTruth-processed`).
 
-## Team
-- **Aaqib Pangarkar**
-- Team 8
+
